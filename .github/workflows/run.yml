@@ -1,7 +1,7 @@
 name: auto run
 
 on:
-  # schedule:
+  # schedule: 测试
   #   - cron: '0 */6 * * *' # 每 6 小时执行一次
   workflow_dispatch:
 
